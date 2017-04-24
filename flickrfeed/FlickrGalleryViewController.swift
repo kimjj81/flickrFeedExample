@@ -43,9 +43,7 @@ class FlickrGalleryViewController: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        self.loadPublicFeed  { 
-            print("끝")
-        }
+        self.loadPublicFeed(nil)
         self.oneImageView?.alpha = 0;
         self.otherImageView?.alpha = 0;
     }
@@ -68,7 +66,6 @@ class FlickrGalleryViewController: UIViewController {
     }
     
     func showNextImage() {
-        print ("시작?")
         if self.loading == true || self.feedArray.count == 0 {
             return
         }
@@ -117,6 +114,7 @@ class FlickrGalleryViewController: UIViewController {
     
     @IBAction func closeButtonTouched(sender : UIButton) {
         self.timer?.invalidate()
+        self.timer = nil
         self.dismiss(animated: true, completion: nil)
     }
     
