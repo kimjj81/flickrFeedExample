@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flickrfeed/flickrfeed/ViewController.swift"
+            timestampString = "514718158.221089"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "startGallery(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flickrfeed/FlickrGalleryViewController.swift"
+            timestampString = "514735464.0748"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "loadPublicFeed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flickrfeed/FlickrGalleryViewController.swift"
+            timestampString = "514735464.0748"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "closeButtonTouched(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flickrfeed/ViewController.swift"
+            timestampString = "514729182.330063"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "startGallery(sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flickrfeed.ViewController.(startGallery (sender : __ObjC.UIButton) -&gt; ()).(closure #1)"
+                  moduleName = "flickrfeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kimjeongjin/%E1%84%83%E1%85%A9%E1%84%8F%E1%85%B2%E1%84%86%E1%85%A5%E1%86%AB%E1%84%90%E1%85%B3/flickrfeed/flickrfeed/ViewController.swift"
+                  timestampString = "514729182.723797"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flickrfeed.ViewController.(startGallery (sender : __ObjC.UIButton) -&gt; ()).(closure #1)"
+                  moduleName = "flickrfeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kimjeongjin/%E1%84%83%E1%85%A9%E1%84%8F%E1%85%B2%E1%84%86%E1%85%A5%E1%86%AB%E1%84%90%E1%85%B3/flickrfeed/flickrfeed/ViewController.swift"
+                  timestampString = "514729182.727173"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "186">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flickrfeed/FlickrGalleryViewController.swift"
+            timestampString = "514735464.0748"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "loadPublicFeed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flickrfeed/FlickrGalleryViewController.swift"
+            timestampString = "514733867.272712"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "timerTick"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flickrfeed/FlickrGalleryViewController.swift"
+            timestampString = "514735464.0748"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "loadPublicFeed(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flickrfeed.FlickrGalleryViewController.(loadPublicFeed (Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()).(closure #1)"
+                  moduleName = "flickrfeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kimjeongjin/%E1%84%83%E1%85%A9%E1%84%8F%E1%85%B2%E1%84%86%E1%85%A5%E1%86%AB%E1%84%90%E1%85%B3/flickrfeed/flickrfeed/FlickrGalleryViewController.swift"
+                  timestampString = "514734930.930977"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "802">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flickrfeed.FlickrGalleryViewController.(loadPublicFeed (Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()).(closure #1)"
+                  moduleName = "flickrfeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kimjeongjin/%E1%84%83%E1%85%A9%E1%84%8F%E1%85%B2%E1%84%86%E1%85%A5%E1%86%AB%E1%84%90%E1%85%B3/flickrfeed/flickrfeed/FlickrGalleryViewController.swift"
+                  timestampString = "514734930.934942"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "2214">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flickrfeed/FlickrGalleryViewController.swift"
+            timestampString = "514735311.139041"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "showNextImage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flickrfeed/FlickrGalleryViewController.swift"
+            timestampString = "514735311.139041"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "showNextImage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flickrfeed.FlickrGalleryViewController.(showNextImage () -&gt; ()).(closure #1)"
+                  moduleName = "flickrfeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kimjeongjin/%E1%84%83%E1%85%A9%E1%84%8F%E1%85%B2%E1%84%86%E1%85%A5%E1%86%AB%E1%84%90%E1%85%B3/flickrfeed/flickrfeed/FlickrGalleryViewController.swift"
+                  timestampString = "514734884.992633"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "226">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flickrfeed.FlickrGalleryViewController.(showNextImage () -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "flickrfeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kimjeongjin/%E1%84%83%E1%85%A9%E1%84%8F%E1%85%B2%E1%84%86%E1%85%A5%E1%86%AB%E1%84%90%E1%85%B3/flickrfeed/flickrfeed/FlickrGalleryViewController.swift"
+                  timestampString = "514734884.995085"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "26">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
