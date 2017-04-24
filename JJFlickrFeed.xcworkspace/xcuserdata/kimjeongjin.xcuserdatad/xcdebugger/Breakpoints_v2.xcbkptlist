@@ -26,7 +26,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "flickrfeed/FlickrGalleryViewController.swift"
-            timestampString = "514735464.0748"
+            timestampString = "514736953.43718"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "138"
@@ -47,8 +47,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "120"
             endingLineNumber = "120"
-            landmarkName = "closeButtonTouched(sender:)"
-            landmarkType = "7">
+            landmarkName = "FlickrGalleryViewController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -106,7 +106,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "flickrfeed/FlickrGalleryViewController.swift"
-            timestampString = "514735464.0748"
+            timestampString = "514736953.43718"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "135"
@@ -138,7 +138,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "flickrfeed/FlickrGalleryViewController.swift"
-            timestampString = "514735464.0748"
+            timestampString = "514736953.43718"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "136"

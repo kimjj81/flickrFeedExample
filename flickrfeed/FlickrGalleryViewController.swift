@@ -125,12 +125,12 @@ class FlickrGalleryViewController: UIViewController {
         
         //get the feed
         if let flickrFeedURL:URL = URL(string: "https://api.flickr.com/services/feeds/photos_public.gne?format=json&nojsoncallback=1&lang=en-us") {
-            let request:URLRequest = URLRequest(url: flickrFeedURL, cachePolicy: URLRequest.CachePolicy.reloadIgnoringCacheData, timeoutInterval: 10)
-            
+            var request:URLRequest = URLRequest(url: flickrFeedURL, cachePolicy: URLRequest.CachePolicy.reloadIgnoringCacheData, timeoutInterval: 10)
+            request.addValue("application/json", forHTTPHeaderField: "Content-type")
             let task = URLSession.shared.dataTask(with: request, completionHandler: { (data, response, error) in
                 if error == nil {
                     do {
-                        let json = try JSONSerialization.jsonObject(with: data!, options:[]) as? [String: Any]
+                        let json = try JSONSerialization.jsonObject(with: data!, options:[JSONSerialization.ReadingOptions.allowFragments]) as? [String: Any]
                         let items = json?["items"] as! [[String:Any]]
                         self.feedArray.append(contentsOf: items)
                     } catch let exception {
